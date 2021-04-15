@@ -1,0 +1,1 @@
+# AllwinnerV3S_KiCad
